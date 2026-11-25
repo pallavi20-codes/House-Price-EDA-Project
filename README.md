@@ -1,5 +1,12 @@
 # 🏠 House Price EDA Project
 
+## 🚀 Live Dashboard
+
+Explore the interactive House Price EDA Dashboard:
+
+[Click here to view the live dashboard](https://house-price-eda-project-gbduuycssxcvjqr2n2sraa.streamlit.app/)
+
+
 ## Project Overview
 This project focuses on Exploratory Data Analysis (EDA) of house prices to understand the factors affecting property values.
 
